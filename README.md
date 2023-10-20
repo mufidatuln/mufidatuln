@@ -1,17 +1,8 @@
-### Hi there 👋
+
 # Halo semua! 
 
 Perkenalkan nama saya **Mufidatul Ngazizah**.\
 
 Saya mahasiswa jurusan Teknik Komputer Universitas Amikom Yogyakarta
-Sekarang saya sedang mengikuti program kampus merdeka yaitu Studi Independent di Bangkit Academy
-dengan learning path Machine Learning.
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mufidatul-ngazizah-6b7907224/)ku ya.
 
-<p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
